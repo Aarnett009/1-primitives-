@@ -7,7 +7,7 @@ public class Main {
         // Prints my name (Every Java program starts with the main function.)
         /*Line One
         * Line Two */
-        System.out.println("My names is Big Dick Rick");
+        System.out.println("My name is Andrew Arnett");
     }
 
 }
